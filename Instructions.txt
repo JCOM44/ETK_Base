@@ -1,0 +1,7 @@
+curl -kLO https://raw.githubusercontent.com/gridaphobe/CRL/ET_2024_11/GetComponents
+
+chmod a+x GetComponents 
+
+
+./GetComponents --shallow https://bitbucket.org/einsteintoolkit/manifest/raw/ET_2024_11/einsteintoolkit.th
+
